@@ -40,3 +40,9 @@ Oscar successfully cloned the repo
 
 Student: Dylan successfully cloned the repo.
 Oscar successfully cloned the repo
+
+Hugo Made Change
+
+Hugo change 2
+
+Change 3
